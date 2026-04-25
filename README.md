@@ -1,7 +1,7 @@
 # JobFit 
 ### AI-powered Resume Screener
 
-JobFit analyzes your resume against a job description using AI and gives you a detailed match report — including match score, missing skills, strengths, and improvement suggestions.
+JobFit analyzes your resume against a job description using AI and gives you a detailed match report including match score, missing skills, strengths, and improvement suggestions.
 
 ---
 
