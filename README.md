@@ -103,9 +103,9 @@ http://127.0.0.1:8000/docs
 
 ## Screenshots
 
-![Home Page](screenshots/home.png)
-![High Match Result](screenshots/highScore.png)
-![Low Match Result](screenshots/mediumLow_score.png)
+![Home Page](Screenshots/home.png)
+![High Match Result](Screenshots/highScore.png)
+![Low Match Result](Screenshots/mediumLow_score.png)
 
 ## Author
 
